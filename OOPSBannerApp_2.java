@@ -3,7 +3,7 @@
  * @version: 1.0
  */
 
-public class OOPSBanner {
+public class OOPSBanner_2 {
     public static void main(String[] args) {
 
         System.out.println(" *****     *****    ******     *****  ");
@@ -16,3 +16,4 @@ public class OOPSBanner {
 
     }
 }
+
