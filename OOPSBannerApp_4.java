@@ -7,8 +7,6 @@ public class OOPSBannerApp_4 {
 
     public static void main(String[] args) {
 
-        System.out.println("OOPS Banner App - UC4\n");
-
         String[] banner = new String[7];
 
         banner[0] = String.join(" "," ****  ", "    ****  ", "  ****  ", "   **** ");
