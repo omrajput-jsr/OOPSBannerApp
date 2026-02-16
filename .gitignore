@@ -1,4 +1,5 @@
-.class
-.log
-.jar
-.java
+# Compiled Class File
+*.class
+*.log
+*.jar
+
