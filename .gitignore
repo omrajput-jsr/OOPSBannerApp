@@ -1,4 +1,2 @@
-.class
-.log
-.jar
-.java
+#IGNORED FILES
+*.class
