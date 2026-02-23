@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ignored Class Files
 *.class
 
@@ -9,3 +10,7 @@
 
 >>>>>>> feature/UC1-PrintOOPS
 
+=======
+#IGNORED FILES
+*.class
+>>>>>>> feature/UC2-BannerPrintStatements
