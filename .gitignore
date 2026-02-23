@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ignored Class Files
 *.class
 
@@ -19,3 +20,8 @@
 #IGNORED FILES
 *.class
 >>>>>>> feature/UC3-BannerUsingStringJoin
+=======
+#IGNORED CLASS
+*.class
+
+>>>>>>> feature/UC4-BannerApp-Array_Loop
