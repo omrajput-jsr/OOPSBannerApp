@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # Ignored Class Files
 *.class
 
 
+=======
+# IGNORED FILES
+*.class
+
+>>>>>>> feature/UC1-PrintOOPS
 
